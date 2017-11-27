@@ -38,6 +38,6 @@ How to Use Git and GitHub - (https://www.udacity.com/course/how-to-use-git-and-g
 GitHub & Collaboration - (https://www.udacity.com/course/github-collaboration--ud456)
 
 
-###### YouTube
+### YouTube
 
 Scope and the JavaScript Compiler  - (https://www.youtube.com/watch?v=nRZri_CHqnA)
