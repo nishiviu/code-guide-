@@ -1,1 +1,2 @@
-Welcome to the project wiki
+### Udacity
+Intro to JavaScript - (https://www.udacity.com/course/intro-to-javascript--ud803)
