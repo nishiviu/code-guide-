@@ -1,3 +1,15 @@
+### Pluralsight
+
+Pluralsight Free Subscription
+
+Follow the steps given below to get your pluralsight free subscription
+
+1. * Go to signup.live.com and create a new Microsoft Account. Skip this step if you already have one.
+1. * Go to my.visualstudio.com and sign-in with your Microsoft account.
+1. * This will open the Visual Studio Dev Essentials page. Here choose Pluralsight among the benefits and click Activate.
+
+
+
 ### Udacity
 ###### Front End Development
 
