@@ -7,4 +7,5 @@
 # Books
  You Don't Know JS - (https://github.com/getify/You-Dont-Know-JS)
  JavaScript - The Good Parts (https://goo.gl/dYRmhE)
+ JS Glossary - (https://goo.gl/GbSCuW)
 
