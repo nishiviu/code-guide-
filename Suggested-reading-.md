@@ -14,4 +14,5 @@
 ######  You Don't Know JS - (https://github.com/getify/You-Dont-Know-JS)
 ######  JS Glossary - (https://goo.gl/GbSCuW)
 ###### Javascript Patterns - (https://goo.gl/cnXRhe)
+###### JavaScript The Definitive Guide, 6th Edition - (https://goo.gl/yFzmZu)
 
