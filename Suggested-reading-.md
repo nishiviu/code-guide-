@@ -9,7 +9,11 @@
  
  The two pillars of JS — Part One (https://goo.gl/xsWA5t)
  
-  The two pillars of JS — Part Two (https://goo.gl/fPDsoX)
+ The two pillars of JS — Part Two (https://goo.gl/fPDsoX)
+ 
+ ## Algorithms
+ 
+A graphic guide to algorithms. (http://algosaur.us/data-structures-basics/)
 
 # Books
 ## JavaScript
