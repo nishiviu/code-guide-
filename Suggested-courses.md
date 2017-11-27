@@ -58,4 +58,5 @@ GitHub & Collaboration - (https://www.udacity.com/course/github-collaboration--u
 ### YouTube
 
 Scope and the JavaScript Compiler  - (https://www.youtube.com/watch?v=nRZri_CHqnA)
+
 15 Sorting Algorithms in 6 Minutes - (https://www.youtube.com/watch?v=kPRA0W1kECg)
