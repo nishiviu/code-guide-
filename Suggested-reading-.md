@@ -8,6 +8,7 @@
  Javascript Programming Paradigms - (https://goo.gl/pc6HQz)
  
  The two pillars of JS — Part One (https://goo.gl/xsWA5t)
+ 
   The two pillars of JS — Part Two (https://goo.gl/fPDsoX)
 
 # Books
