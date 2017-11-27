@@ -36,3 +36,8 @@ Intro to Relational Databases - (https://www.udacity.com/course/intro-to-relatio
 How to Use Git and GitHub - (https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 GitHub & Collaboration - (https://www.udacity.com/course/github-collaboration--ud456)
+
+
+YouTube
+
+Scope and the JavaScript Compiler  - (https://www.youtube.com/watch?v=nRZri_CHqnA)
