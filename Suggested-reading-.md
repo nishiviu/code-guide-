@@ -6,7 +6,8 @@
  
  Javascript Programming Paradigms - (https://goo.gl/pc6HQz)
  
- The two pillars of JS - (https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
+ The two pillars of JS — Part One (https://goo.gl/xsWA5t)
+  The two pillars of JS — Part Two (https://goo.gl/fPDsoX)
 
 # Books
 ######  You Don't Know JS - (https://github.com/getify/You-Dont-Know-JS)
