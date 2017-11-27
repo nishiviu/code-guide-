@@ -1,4 +1,5 @@
 # Articles
+## JavaScript
 
  Let’s settle ‘this’ — Part One (https://medium.com/@nashvail/lets-settle-this-part-one-ef36471c7d97)
 
@@ -10,9 +11,11 @@
   The two pillars of JS — Part Two (https://goo.gl/fPDsoX)
 
 # Books
-######  JavaScript - The Good Parts (https://goo.gl/dYRmhE)
-######  You Don't Know JS - (https://github.com/getify/You-Dont-Know-JS)
-######  JS Glossary - (https://goo.gl/GbSCuW)
+## JavaScript
+
+###### JavaScript - The Good Parts (https://goo.gl/dYRmhE)
+###### You Don't Know JS - (https://github.com/getify/You-Dont-Know-JS)
+###### JS Glossary - (https://goo.gl/GbSCuW)
 ###### Javascript Patterns - (https://goo.gl/cnXRhe)
 ###### JavaScript The Definitive Guide, 6th Edition - (https://goo.gl/yFzmZu)
 
