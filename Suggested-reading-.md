@@ -6,4 +6,5 @@
 
 # Books
  You Don't Know JS - (https://github.com/getify/You-Dont-Know-JS)
+ JavaScript - The Good Parts (https://git.materna-sk.sk/materna/code-guide/src/master/js-books/[JAVASCRIPT][JavaScript%20The%20Good%20Parts].pdf)
 
