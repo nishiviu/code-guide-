@@ -9,7 +9,7 @@
 1. [UI Actions](#ui-actions)
 1. [Application Navigators](#application-navigators)
 1. [Security](#security)
-1. [SIAM Light Quickguide](#siamlight-quickguide)
+1. [SIAM Light](#siam-light)
 1. [Sources](#sources)
 
 ## General
@@ -158,7 +158,7 @@ Extend an existing table when there already is one which has similar functionali
 
 
 ## SIAM Light
-[SIAM Light](https://git.materna-sk.sk/materna/siam_presentation/src/master/siam_light_quick_guide/Siam%20Light%20Quick%20Guide%20-%20Outbound%20Message.md)
+[SIAM Light Quickguide](https://git.materna-sk.sk/materna/siam_presentation/src/master/siam_light_quick_guide/Siam%20Light%20Quick%20Guide%20-%20Outbound%20Message.md)
 
 
 ## Sources: 
