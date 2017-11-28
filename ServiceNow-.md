@@ -11,6 +11,7 @@
 1. [Security](#security)
 1. [SIAM Light](#siam-light)
 1. [Sources](#sources)
+ 
 
 ## General
 
@@ -54,14 +55,14 @@ Although the GlideRecord Class is available on the Client-side, ServiceNow recom
 * 3.7. **Use g_scratchpad to minimise server calls**: Often, we need to use data in our Client Scripts, which is available on the Server, but not readily available on the Client. If these values are known when the form is loaded, they can be retrieved by a Display Business Rule, and made available to Client Scripts by storing them on a global JavaScript Object called g_scratchpad. Such examples include System Properties or field values from Database records. By first storing them on the g_scratchpad object when the form is loaded, it avoids the need to use an AJAX call to request and receive the required data.
 * 3.8. **Set the Display Value as well as the Value on Reference fields**: When setting the value of a Reference field via script, we need to use (at minimum) the sys_id value of the record we want to select. When this happens, ServiceNow will automatically make a Synchronous AJAX call to the Server to determine the Display Value for the record we’ve selected, and then display this value on the form. As per my previous points on Client-Server communication and Asynchronous vs Synchronous AJAX calls, it is Best Practice to avoid Synchronous calls altogether, and to minimise server calls in general. With this in mind, the Best Practice when setting a value into a Reference field is to also set the Display Value at the same time, as this will prevent the additional Synchronous call to the Server. This can be achieved by adding an additional argument to the setValue() function. 
 
-## Server Script Best Practices
+## Server Script 
 
 * 4.1. **Use Script Includes instead of Global Business Rules**: If you define a function or Class in a Global Business Rule, this code will be loaded when the Business Rules execute on ANY and EVERY table in the system. This is usually highly undesirable since it adds additional processing load, which will affect the system performance. Script Includes can be used to serve the same purposes, however they are only loaded if their function call is detected. 
 * 4.2. **Wrap Business Rule scripts in functions**: Because there are many Business Rules in the system, they are executed in a sequence (based on their Order value). When this happens, the contents of these scripts are compiled together into one big long sequence. If the same variable or function names are used in multiple Business Rules, they could conflict and change the flow of the program, causing unexpected behaviour.
 * 4.3. **Avoid updating other records in a Before Business Rule**: Before Insert/Update Business Rules are nice because they allow us to modify the current (record) Object just before the Database operation is executed. However, you can hinder system performance if you are unnecessarily updating other records during this script. This is because an insert/update action on another table will likely invoke any applicable Business Rules configured on that table as well, and thus delay the current action being performed.
 * 4.4. **Use Conditions in Business Rules**: Because it’s possible (and likely) that multiple Business Rules (of each type) have been defined, the system will effectively combine all of them into one big long script for processing (where the order is determined by the Order field on each rule). If no Condition is configured on these rules, all of them will be executed every time.
 * 4.5. **Use GlideAggregate instead of getRowCount()**: Under-the-hood getRowCount() is not the most efficient means of obtaining a count. This is because the GlideRecord Class will retrieve the values of each record as well as the number of records returned. It is therefore recommended that we use the GlideAggregate Class instead. This Class operates with some similar functions and parameters as the GlideRecord Class, however its purpose is not to retrieve all of the record data but simply to provide statistics based on the records returned by a query.
-*  4.6. **Avoid hardcoding values by using System Properties and Messages**: Hardcoding makes the code difficult to maintain and make changes to these values in the future.
+*  4.6. **Avoid hardcoding values by using System Properties and Messages**: Hardcoding makes the code difficult to maintain and make changes to these values in the future. Use a property in a server-side script with the gs.getProperty().
 *  4.7. **Important to know when they run**:
     *  **Display** - run after the database is queried and before the form is sent to the browser. Typical use for g_scratchpad.
     * **Before** - run after the user hits submit and thus before the database is queried. They have an implicit update : do NOT use current.update().
