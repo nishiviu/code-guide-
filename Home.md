@@ -1,5 +1,7 @@
 # Table of Contents
-**ServiceNow Code Guide** - (https://git.materna-sk.sk/materna/code-guide/wiki/ServiceNow-)
+**ServiceNow Code Guide** - ()
+
+[ServiceNow Code Guide](https://git.materna-sk.sk/materna/code-guide/wiki/ServiceNow-)
 
 **Airbnb JS** - (https://git.materna-sk.sk/materna/code-guide/wiki/Airbnb)
 
