@@ -15,6 +15,8 @@ DZone - (https://dzone.com/)
 
 Tuts+ - (http://tutsplus.com/)
 
+Coding Horror - (https://blog.codinghorror.com/)
+
 
 ### People to follow
 Andrea Giammarchi - (http://webreflection.blogspot.sk/)
