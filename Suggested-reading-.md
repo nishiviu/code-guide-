@@ -1,4 +1,3 @@
-# Websites
 ### Docs
 Google Developers - (https://developers.google.com/)
 
@@ -40,10 +39,8 @@ Jen Simmons - (https://twitter.com/jensimmons)
 Rachel Andrew - (https://twitter.com/rachelandrew)
  
 
-
-
-# Articles
-## JavaScript
+### Articles
+#### JavaScript
 
  Let’s settle ‘this’ — Part One (https://medium.com/@nashvail/lets-settle-this-part-one-ef36471c7d97)
 
@@ -55,16 +52,18 @@ Rachel Andrew - (https://twitter.com/rachelandrew)
  
  The two pillars of JS — Part Two (https://goo.gl/fPDsoX)
  
-##  Algorithms
+####  Algorithms
  
 A graphic guide to algorithms. (http://algosaur.us/data-structures-basics/)
 
-# Books
-## JavaScript
+## Books
+### JavaScript
 
-###### You Don't Know JS - (https://github.com/getify/You-Dont-Know-JS)
-###### JS Glossary - (https://goo.gl/GbSCuW)
-###### JavaScript The Definitive Guide, 6th Edition - (https://goo.gl/yFzmZu)
+ You Don't Know JS - (https://github.com/getify/You-Dont-Know-JS)
+ 
+ JS Glossary - (https://goo.gl/GbSCuW)
+ 
+ JavaScript The Definitive Guide, 6th Edition - (https://goo.gl/yFzmZu)
 
 ## Software Architecture
 
