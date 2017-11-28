@@ -14,12 +14,19 @@ https://developer.servicenow.com/app.do#!/document/content/app_store_doc_technic
 * 1.5. **Verify values before you use them**
 * 1.6. **Use variables to store function results**
 * 1.7. **Return Values**: Get in the practice of returning some type of value when you create new functions.
+* 1.8. **Use Self-Executing Functions**: Immediately invoked functions are typically used to create a local function scope that is private and cannot be accessed from the outside world and can define it's own local symbols without affecting the outside world.
 
 ## Interacting with the Database
 
 * 2.1. **Avoid Complex GlideRecord Queries**: Rather than creating a series of addQuery() and addOrCondition() calls to obtain a result, use addEncodedQuery() to make the query easier to create and maintain.
 * 2.2. **Use GlideAggregate for Simple Record Counting:** Using GlideRecord to count rows can cause scalability issues as tables grow over time, because it retrieves every record with the query and then counts them. GlideAggregate gets its result from built-in database functionality, which is much quicker and doesn’t suffer from the scalability issues that GlideRecord does.
 * 2.3. **Avoid Complex Queries on Large Data Sets**: Limit the number of times you search large tables. As your instance grows, these searches can affect performance.
+* 2.4. **Let the Database Do the Work**: Whenever possible, leverage the power of the database to retrieve the proper records. Use the setLimit() method to instruct the database to return only one record. Returning one record is much faster than returning all the records.
+
+## Client Scripting
+
+* 3.1. **Use Client Scripts to Validate Data**: An excellent use for Client Scripts is validating input from the user. Validation improves the user experience because the user finds out if there are data issues before submitting the information. 
+
 
 
 
