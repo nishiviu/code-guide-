@@ -1,5 +1,3 @@
-//TODO Mark rules that do not apply for ServiceNow
-
 ## Table of Contents
 
   1. [Types](#types)
