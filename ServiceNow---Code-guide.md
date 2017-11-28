@@ -14,6 +14,7 @@
 * 1.7. **Return Values**: Get in the practice of returning some type of value when you create new functions.
 * 1.8. **Use Self-Executing Functions**: Immediately invoked functions are typically used to create a local function scope that is private and cannot be accessed from the outside world and can define it's own local symbols without affecting the outside world.
 * 1.9. **Enclose Code in Functions**
+* 1.10. **Use consistent styling**
 
 ## Interacting with the Database
 
@@ -37,11 +38,19 @@
 * 3.1. **Use Client Scripts to Validate Data**: An excellent use for Client Scripts is validating input from the user. Validation improves the user experience because the user finds out if there are data issues before submitting the information. 
 * 3.2. **Set Client Script Order**
 * 3.3. **Use UI Policies Instead of Client Scripts to Set Field Attributes**
+* 3.4. **Avoid global Client Scripts**: Client Scripts configured on the Global Table will be loaded on every single table form in the system, regardless of whether any of the code is actually needed. This can seriously impact system performance and therefore should be avoided. 
+* 3.5. **Avoid using DOM (manipulating elements via the Document Object Model)**: Te HTML in ServiceNow’s table forms is maintained by ServiceNow, and could (and likely will) change with future releases. If the id value changed, your code will fail.
+* 3.6.: **Use Asynchronous calls via getReference() or GlideAjax**: Using Asynchronous AJAX calls (e.g. using Callback functions) will avoid freezing the web browser while the data transfer occurs, and results in a much nicer user experience.
+Although the GlideRecord Class is available on the Client-side, ServiceNow recommends using GlideAjax instead. First of all, unlike the Server-side equivalent, the Client-side version of the GlideRecord Class will not provide the same functionality (e.g. no dot-walking and associated function calls). Second, whenever the next() or get() functions are called, a Synchronous AJAX call will be made to the Server and this will momentarily freeze the web browser until the data is returned. Using the Client-side GlideRecord Class is actually very similar to using getReference()
+* 3.7. **Use g_scratchpad to minimise server calls**: Often, we need to use data in our Client Scripts, which is available on the Server, but not readily available on the Client. If these values are known when the form is loaded, they can be retrieved by a Display Business Rule, and made available to Client Scripts by storing them on a global JavaScript Object called g_scratchpad. Such examples include System Properties or field values from Database records. By first storing them on the g_scratchpad object when the form is loaded, it avoids the need to use an AJAX call to request and receive the required data.
+* 3.8. **Set the Display Value as well as the Value on Reference fields**: When setting the value of a Reference field via script, we need to use (at minimum) the sys_id value of the record we want to select. When this happens, ServiceNow will automatically make a Synchronous AJAX call to the Server to determine the Display Value for the record we’ve selected, and then display this value on the form. As per my previous points on Client-Server communication and Asynchronous vs Synchronous AJAX calls, it is Best Practice to avoid Synchronous calls altogether, and to minimise server calls in general. With this in mind, the Best Practice when setting a value into a Reference field is to also set the Display Value at the same time, as this will prevent the additional Synchronous call to the Server. This can be achieved by adding an additional argument to the setValue() function. 
+* 3.9.: 
 
 ## Sources: 
 * ServiceNow Developers -  (https://goo.gl/oNtTE5)
 * Best Practices - (https://bestpractices.000webhostapp.com/)
-
+* Client Script Best Practices - (https://goo.gl/sMtGkf)
+* Coding Best Practices (https://community.servicenow.com/groups/servicenow-user-group-au-brisbane/blog/2017/05/01/servicenow-scripting-101-technical-best-practices-part-1)
 
 
 
