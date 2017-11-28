@@ -4,8 +4,7 @@
 
 [JavaScript - Airbnb ES6](https://git.materna-sk.sk/materna/code-guide/wiki/Airbnb---ES6)
 
-[JavaScript - Airbnb ES5](https://git.materna-sk.sk/materna/code-guide/wiki/Airbnb---ES5)
-- **Compatible with current ServiceNow instance versions.**
+[JavaScript - Airbnb ES5](https://git.materna-sk.sk/materna/code-guide/wiki/Airbnb---ES5)- **Compatible with current ServiceNow instance versions.**
 
 [Suggested Courses](https://git.materna-sk.sk/materna/code-guide/wiki/Suggested-courses)
 
