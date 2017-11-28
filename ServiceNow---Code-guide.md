@@ -1,4 +1,4 @@
-[https://developer.servicenow.com/app.do#!/document/content/app_store_doc_technical_best_practices_jakarta_interacting_with_the_database?v=jakarta](http://)
+
 # Table of Contents
 
 - [General](#general)
@@ -38,6 +38,10 @@
 * 3.1. **Use Client Scripts to Validate Data**: An excellent use for Client Scripts is validating input from the user. Validation improves the user experience because the user finds out if there are data issues before submitting the information. 
 * 3.2. **Set Client Script Order**
 * 3.3. **Use UI Policies Instead of Client Scripts to Set Field Attributes**
+
+Sources: 
+* ServiceNow Developers -  (https://goo.gl/oNtTE5)
+* Best Practices - (https://bestpractices.000webhostapp.com/)
 
 
 
