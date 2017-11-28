@@ -15,6 +15,7 @@ https://developer.servicenow.com/app.do#!/document/content/app_store_doc_technic
 * 1.6. **Use variables to store function results**
 * 1.7. **Return Values**: Get in the practice of returning some type of value when you create new functions.
 * 1.8. **Use Self-Executing Functions**: Immediately invoked functions are typically used to create a local function scope that is private and cannot be accessed from the outside world and can define it's own local symbols without affecting the outside world.
+* 1.9. **Enclose Code in Functions**
 
 ## Interacting with the Database
 
