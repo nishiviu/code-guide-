@@ -9,5 +9,15 @@
 * 1.4. **Use descriptive variable and function names**
 * 1.5. **Verify values before you use them**
 * 1.6. **Use variables to store function results**
+* 1.7. **Return Values**: Get in the practice of returning some type of value when you create new functions.
+
+## Interacting with the Database
+
+* 2.1. **Avoid Complex GlideRecord Queries**: Rather than creating a series of addQuery() and addOrCondition() calls to obtain a result, use addEncodedQuery() to make the query easier to create and maintain.
+* 2.2. **Use GlideAggregate for Simple Record Counting:** Using GlideRecord to count rows can cause scalability issues as tables grow over time, because it retrieves every record with the query and then counts them. GlideAggregate gets its result from built-in database functionality, which is much quicker and doesn’t suffer from the scalability issues that GlideRecord does.
+* 2.3. **Avoid Complex Queries on Large Data Sets**: Limit the number of times you search large tables. As your instance grows, these searches can affect performance.
+
+
+
 
 
