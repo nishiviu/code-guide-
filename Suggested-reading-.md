@@ -1,11 +1,10 @@
-
 # Websites
 ### Docs
 Google Developers - (https://developers.google.com/)
 
 Mozilla Developers - (https://developer.mozilla.org/en-US/)
 
-### Webs Design & Development
+### Webs Design & Development 
 Smashing Magazine - (https://www.smashingmagazine.com/)
 
 SitePoint - (https://www.sitepoint.com/)
@@ -15,6 +14,22 @@ List Apart - (http://alistapart.com/)
 DZone - (https://dzone.com/)
 
 Tuts+ - (http://tutsplus.com/)
+
+
+### People to follow
+Giararchi - (http://webreflection.blogspot.sk/)
+
+Kangax - (http://perfectionkills.com/)
+
+Souders - (http://www.stevesouders.com/)
+
+Resig - (http://ejohn.org/category/blog/)
+
+Lea Verou - (http://lea.verou.me/)
+
+Rebeca - (http://rmurphey.com/)
+ 
+
 
 
 # Articles
