@@ -52,6 +52,8 @@
  
  [The two pillars of JS — Part Two](https://goo.gl/fPDsoX)
  
+ 
+ 
 ####  Algorithms
  
 [A graphic guide to algorithms](http://algosaur.us/data-structures-basics/)
@@ -64,6 +66,8 @@
  [JS Glossary](https://goo.gl/GbSCuW)
  
  [JavaScript The Definitive Guide, 6th Edition](https://goo.gl/yFzmZu)
+ 
+ [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 ### Software Architecture
 
