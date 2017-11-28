@@ -14,7 +14,7 @@ JavaScript: The Good Parts - (https://goo.gl/9HVNWK)
 
 Rapid JavaScript Training - (https://goo.gl/Q67oJy)
 
-Advanced JavaScript - Kyle Simpson - (https://goo.gl/FBmq1G)
+Advanced JavaScript - (https://goo.gl/FBmq1G)
 
 Practical Design Patterns in JavaScript - (https://goo.gl/FZWRTc)
 
@@ -25,6 +25,16 @@ JavaScript Asynchronous Module Definition (AMD) Explained - (https://goo.gl/4zTb
 JavaScript Best Practices - (https://goo.gl/A62UJD)
 
 JavaScript Fundamentals for ES6 - (https://goo.gl/gQiwgc)
+
+##### Bootstrap 3 
+
+Responsive Websites With Bootstrap 3 - (https://goo.gl/EeMAQu)
+
+##### Performance
+
+Website Performance - (https://goo.gl/tWuTGy)
+
+Responsive Web Images - (https://goo.gl/HxbL9B)
 
 
 ### Udacity
