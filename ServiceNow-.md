@@ -74,7 +74,34 @@ Extend an existing table when there already is one which has similar functionali
 * Reference choice lists with the same choices  
     * Use underscores in choice list values.
     * Capitalize words in choice names.
+* Create fields in appropriate classes  
+* Consider inheritance  
+    * Use parent table only if the field is required on other children of the parent table.
+* Use correct field types  
+    * Avoid using string fields for structured data.
+    * Do not change field types on existing fields - instead, create a new field and migrate the data.
+* Use dictionary overrides  
 
+## New form and list
+* 6.1. **Form Layout**: 
+   * **Layout**
+    * Should be consistent across all forms.
+    * Forms should read from top to bottom.
+    * Reference name/number at top left.
+    * Use full width for large text fields.
+    * Use sections for large forms.
+   * **Use Annotations**
+    * Blue info-box (question mark) icon.
+   *  **Use views**
+    * Can speed up performance if fewer UI policies / Client scripts get applied onto the form.
+* 6.2. **List Layout**
+    * Avoid HTML, large text fields, journal fields on the list  
+
+    * Avoid reference field as the first column (avoid confusion)  
+
+    * Avoid horizontal scrolling  
+
+    * Consider list controlls carefully  
 
 
 
