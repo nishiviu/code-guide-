@@ -26,6 +26,8 @@ https://developer.servicenow.com/app.do#!/document/content/app_store_doc_technic
 
 ## Client Scripting
 
+**Client Scripts have no Condition field. This means onLoad() and onChange() scripts run in their entirety every time the appropriate form is loaded. To avoid running time-consuming scripts unnecessarily, make sure Client Scripts perform only necessary tasks.**
+
 *With the exception of onCellEdit Client Scripts, UI policies and Client Scripts apply to forms only. If you create UI policies or Client Scripts for fields on a form, you must use another method to ensure that data in those fields is similarly controlled in a list. You can:*
 
 * Disable list editing for the table.
