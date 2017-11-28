@@ -8,6 +8,21 @@ Follow the steps given below to get your pluralsight free subscription
 1. Go to my.visualstudio.com and sign-in with your Microsoft account.
 1. This will open the Visual Studio Dev Essentials page. Here choose Pluralsight among the benefits and click Activate.
 
+JavaScript: The Good Parts - (https://goo.gl/9HVNWK)
+
+Rapid JavaScript Training - (https://goo.gl/Q67oJy)
+
+Advanced JavaScript - Kyle Simpson - (https://goo.gl/FBmq1G)
+
+Practical Design Patterns in JavaScript - (https://goo.gl/FZWRTc)
+
+JavaScript Objects and Prototypes - (https://goo.gl/gMuSJq)
+
+JavaScript Asynchronous Module Definition (AMD) Explained - (https://goo.gl/4zTb6Q)
+
+JavaScript Best Practices - (https://goo.gl/A62UJD)
+
+JavaScript Fundamentals for ES6 - (https://goo.gl/gQiwgc)
 
 
 ### Udacity
@@ -48,9 +63,6 @@ Intro to Relational Databases - (https://www.udacity.com/course/intro-to-relatio
 How to Use Git and GitHub - (https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 GitHub & Collaboration - (https://www.udacity.com/course/github-collaboration--ud456)
-
-
-### CodeAcademy
 
 
 ### Alison
