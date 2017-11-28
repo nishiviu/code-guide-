@@ -47,6 +47,17 @@ Writing Testable Code - (https://goo.gl/cMRGco)
 UX-driven Software Design - (https://goo.gl/p7qPN5)
 
 Mobile First Responsive Web Design - (https://goo.gl/AmakRr)
+
+#### GIT
+
+How Git Works - (https://goo.gl/i5dG2L)
+
+Mastering Git - (https://goo.gl/MHh5Zr)
+
+Using Git with a GUI - (https://goo.gl/is5mCK)
+
+Advanced Git Tips and Tricks - (https://goo.gl/JBf42B)
+
 ### Udacity
 #### Front End Development
 
