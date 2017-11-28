@@ -10,9 +10,9 @@ Follow the steps given below to get your pluralsight free subscription
 
 #### JavaScript
 
-JavaScript: The Good Parts - (https://goo.gl/9HVNWK)
+(JavaScript: The Good Parts) - [https://goo.gl/9HVNWK]
 
-Rapid JavaScript Training - (https://goo.gl/Q67oJy)
+(Rapid JavaScript Training) - [https://goo.gl/Q67oJy]
 
 Advanced JavaScript - (https://goo.gl/FBmq1G)
 
