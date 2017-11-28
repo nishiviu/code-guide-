@@ -9,6 +9,7 @@
 1. [UI Actions](#ui-actions)
 1. [Application Navigators](#application-navigators)
 1. [Security](#security)
+1. [SIAM Light Quickguide](#siamlight-quickguide)
 1. [Sources](#sources)
 
 ## General
