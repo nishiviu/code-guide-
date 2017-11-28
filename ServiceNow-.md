@@ -25,7 +25,16 @@ https://developer.servicenow.com/app.do#!/document/content/app_store_doc_technic
 
 ## Client Scripting
 
+*With the exception of onCellEdit Client Scripts, UI policies and Client Scripts apply to forms only. If you create UI policies or Client Scripts for fields on a form, you must use another method to ensure that data in those fields is similarly controlled in a list. You can:*
+
+* Disable list editing for the table.
+* Create appropriate business rules or access controls for list editing.
+* Create data policies.
+* Create a separate onCellEdit Client Script.
+
 * 3.1. **Use Client Scripts to Validate Data**: An excellent use for Client Scripts is validating input from the user. Validation improves the user experience because the user finds out if there are data issues before submitting the information. 
+* 3.2. **Set Client Script Order**
+* 3.3. **Use UI Policies Instead of Client Scripts to Set Field Attributes**
 
 
 
