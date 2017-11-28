@@ -5,11 +5,11 @@
 1. - [Client Scripting](#client-scripting)
 1. - [Server Script Best Practices](#server-script-best-practices)
 1. - [Tables](#tables)
-1. - [Sources](#sources)
 1. - [Form and list](#form-and-list)
 1. - [UI Actions](#ui-actions)
 1. - [Application Navigators](#application-navigators)
 1. - [Security](#security)
+1. - [Sources](#sources)
 
 ## General
 
