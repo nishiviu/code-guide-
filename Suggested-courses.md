@@ -30,13 +30,23 @@ JavaScript Fundamentals for ES6 - (https://goo.gl/gQiwgc)
 
 Responsive Websites With Bootstrap 3 - (https://goo.gl/EeMAQu)
 
+Responsive Websites With Bootstrap 3 
+
 ##### Performance
 
 Website Performance - (https://goo.gl/tWuTGy)
 
 Responsive Web Images - (https://goo.gl/HxbL9B)
 
+##### Software Practices
 
+Clean Architecture: Patterns, Practices, and Principles - (https://goo.gl/5n4MKu)
+
+Writing Testable Code - (https://goo.gl/cMRGco)
+
+UX-driven Software Design - (https://goo.gl/p7qPN5)
+
+Mobile First Responsive Web Design - (https://goo.gl/AmakRr)
 ### Udacity
 ##### Front End Development
 
