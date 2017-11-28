@@ -162,6 +162,7 @@ Extend an existing table when there already is one which has similar functionali
 
 
 ## Sources: 
+* Service Portal Documentation - (https://serviceportal.io/docs/)
 * ServiceNow Developers -  (https://goo.gl/oNtTE5)
 * Best Practices - (https://bestpractices.000webhostapp.com/)
 * Client Script Best Practices - (https://goo.gl/sMtGkf)
