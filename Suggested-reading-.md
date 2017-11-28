@@ -27,7 +27,7 @@ Resig - (http://ejohn.org/category/blog/)
 
 Lea Verou - (http://lea.verou.me/)
 
-Rebeca - (http://rmurphey.com/)
+Rebecca Murphey - (http://rmurphey.com/)
  
 
 
