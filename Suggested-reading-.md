@@ -28,6 +28,14 @@ John Resig - (http://ejohn.org/category/blog/)
 Lea Verou - (http://lea.verou.me/)
 
 Rebecca Murphey - (http://rmurphey.com/)
+
+Harry Roberts - (https://twitter.com/csswizardry)
+
+CattSmall - (https://twitter.com/cattsmall)
+
+Jen Simmons - (https://twitter.com/jensimmons)
+
+Rachel Andrew - (https://twitter.com/rachelandrew)
  
 
 
