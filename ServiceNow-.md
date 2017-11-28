@@ -157,7 +157,8 @@ Extend an existing table when there already is one which has similar functionali
 * 9.4. **Leverage hierarchical security**  
 
 
-
+## SIAM Light
+[SIAM Light](https://git.materna-sk.sk/materna/siam_presentation/src/master/siam_light_quick_guide/Siam%20Light%20Quick%20Guide%20-%20Outbound%20Message.md)
 
 
 ## Sources: 
