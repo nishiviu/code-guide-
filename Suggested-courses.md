@@ -8,7 +8,7 @@ Follow the steps given below to get your pluralsight free subscription
 1. Go to my.visualstudio.com and sign-in with your Microsoft account.
 1. This will open the Visual Studio Dev Essentials page. Here choose Pluralsight among the benefits and click Activate.
 
-##### JavaScript
+#### JavaScript
 
 JavaScript: The Good Parts - (https://goo.gl/9HVNWK)
 
@@ -26,19 +26,19 @@ JavaScript Best Practices - (https://goo.gl/A62UJD)
 
 JavaScript Fundamentals for ES6 - (https://goo.gl/gQiwgc)
 
-##### Bootstrap 3 
+#### Bootstrap 3 
 
 Responsive Websites With Bootstrap 3 - (https://goo.gl/EeMAQu)
 
 Responsive Websites With Bootstrap 3 
 
-##### Performance
+#### Performance
 
 Website Performance - (https://goo.gl/tWuTGy)
 
 Responsive Web Images - (https://goo.gl/HxbL9B)
 
-##### Software Practices
+#### Software Practices
 
 Clean Architecture: Patterns, Practices, and Principles - (https://goo.gl/5n4MKu)
 
@@ -48,7 +48,7 @@ UX-driven Software Design - (https://goo.gl/p7qPN5)
 
 Mobile First Responsive Web Design - (https://goo.gl/AmakRr)
 ### Udacity
-##### Front End Development
+#### Front End Development
 
 HTML and CSS Syntax - (https://www.udacity.com/course/html-and-css-syntax--ud001)
 
@@ -70,20 +70,20 @@ Responsive Images - (https://www.udacity.com/course/responsive-images--ud882)
 
 JavaScript Testing - (https://www.udacity.com/course/javascript-testing--ud549)
 
-##### Performance
+#### Performance
 
 Website Performance Optimization - (https://www.udacity.com/course/website-performance-optimization--ud884)
 
 Browser Rendering Optimization - (https://goo.gl/oyBSFL)
 
 
-##### Back End Development
+#### Back End Development
 
 Designing RESTful APIs - (https://www.udacity.com/course/designing-restful-apis--ud388)
 
 Intro to Relational Databases - (https://www.udacity.com/course/intro-to-relational-databases--ud197)
 
-##### GIT & GitHub
+#### GIT & GitHub
 
 How to Use Git and GitHub - (https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
