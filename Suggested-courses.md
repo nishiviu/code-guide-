@@ -1,6 +1,6 @@
 ## Pluralsight
 
-Pluralsight Free Subscription
+**Pluralsight Free Subscription**
 
 Follow the steps given below to get your pluralsight free subscription
 
