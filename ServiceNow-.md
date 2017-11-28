@@ -6,6 +6,10 @@
 - [Server Script Best Practices](#server-script-best-practices)
 - [Tables](#tables)
 - [Sources](#sources)
+- [Form and list](#form-and-list)
+- [UI Actions](#ui-actions)
+- [Application Navigators](#application-navigators)
+- [Security](#security)
 
 ## General
 
@@ -57,6 +61,15 @@ Although the GlideRecord Class is available on the Client-side, ServiceNow recom
 * 4.4. **Use Conditions in Business Rules**: Because it’s possible (and likely) that multiple Business Rules (of each type) have been defined, the system will effectively combine all of them into one big long script for processing (where the order is determined by the Order field on each rule). If no Condition is configured on these rules, all of them will be executed every time.
 * 4.5. **Use GlideAggregate instead of getRowCount()**: Under-the-hood getRowCount() is not the most efficient means of obtaining a count. This is because the GlideRecord Class will retrieve the values of each record as well as the number of records returned. It is therefore recommended that we use the GlideAggregate Class instead. This Class operates with some similar functions and parameters as the GlideRecord Class, however its purpose is not to retrieve all of the record data but simply to provide statistics based on the records returned by a query.
 *  4.6. **Avoid hardcoding values by using System Properties and Messages**: Hardcoding makes the code difficult to maintain and make changes to these values in the future.
+*  4.7. **Important to know when they run**:
+    *  **Display** - run after the database is queried and before the form is sent to the browser. Typical use for g_scratchpad.
+    * **Before** - run after the user hits submit and thus before the database is queried. They have an implicit update : do NOT use current.update().
+        * Generally used for manipulating the current record.
+    * **After** - run after the database is queried.
+        * Generally used for managing related tables and fields.
+    * **Async** - run after the database is queried - asynchroniously.
+        * Generally used for processing email, calculating SLAs and metrics, generating report fields.
+* 4.8. **Should be small and specific**: Easier to debug and maintain.
 
 ## Tables
 5.1. **New Table**:
@@ -82,7 +95,7 @@ Extend an existing table when there already is one which has similar functionali
     * Do not change field types on existing fields - instead, create a new field and migrate the data.
 * Use dictionary overrides  
 
-## New form and list
+## Form and list
 * 6.1. **Form Layout**: 
    * **Layout**
     * Should be consistent across all forms.
@@ -102,6 +115,47 @@ Extend an existing table when there already is one which has similar functionali
     * Avoid horizontal scrolling  
 
     * Consider list controlls carefully  
+    * **Limit list length**
+     * System Properties > System.
+    * Should be 100 or less.
+
+## UI Actions
+* 7.1. **Create well-designed UI Actions ** 
+* 7.2. **Give UI Actions distinctive names**
+* 7.3. **Use conditions**:
+    * .canWrite() to ensure security.
+    * .isActive() to check if it is active.
+* 7.4. **Consider the location of the UI Action within the form**:
+    * Use form buttons for frequent tasks.
+    * Use context menu for less frequent tasks.
+    * Use the list context menu for single records.
+    * Use the list choice for multiple records.
+* 7.5. **Leverage Business Rules and Script Includes**  
+
+## Application navigator
+
+* 8.1. **Consider using menu categories**
+* 8.2. **Use consistent names**:
+    * i.e. "Open" for open incidents, not "Open incidents"
+* 8.3. **Use separators efectively**
+* 8.4. **Consider using interceptors**  
+    * This may reduce the number of modules and also improve the usability of the system.
+* 8.5. **Avoid using the search module** 
+
+## Security
+* 9.1. **Use roles as primary means of security**:
+    * Map roles to groups.
+    * A group is just a collection of users.
+* 9.2. **Client scripts and UI Policies are hackable!**:
+    * Use ACLs on the server to backup the security.
+    * Consider using Data Policies - similar to UI Policy but on the server.
+* 9.3. **Enable high security plugin**:
+    * Sets a default deny policy - previous version used allow policy.
+    * Do this at the beginning of the project.
+    * The plugin may be on but the setting still may say "allow" - check the appropriate system property.
+* 9.4. **Leverage hierarchical security**  
+
+
 
 
 
