@@ -10,33 +10,32 @@ Follow the steps given below to get your pluralsight free subscription
 
 #### JavaScript
 
-(JavaScript: The Good Parts) - [https://goo.gl/9HVNWK]
+[JavaScript: The Good Parts](https://goo.gl/9HVNWK)
 
-(Rapid JavaScript Training) - [https://goo.gl/Q67oJy]
+[Rapid JavaScript Training](https://goo.gl/Q67oJy)
 
-Advanced JavaScript - (https://goo.gl/FBmq1G)
+[Advanced JavaScript](https://goo.gl/FBmq1G)
 
-Practical Design Patterns in JavaScript - (https://goo.gl/FZWRTc)
+[Practical Design Patterns in JavaScript](https://goo.gl/FZWRTc)
 
-JavaScript Objects and Prototypes - (https://goo.gl/gMuSJq)
+[JavaScript Objects and Prototypes](https://goo.gl/gMuSJq)
 
-JavaScript Asynchronous Module Definition (AMD) Explained - (https://goo.gl/4zTb6Q)
+[JavaScript Asynchronous Module Definition (AMD) Explained](https://goo.gl/4zTb6Q)
 
-JavaScript Best Practices - (https://goo.gl/A62UJD)
+[JavaScript Best Practices](https://goo.gl/A62UJD)
 
-JavaScript Fundamentals for ES6 - (https://goo.gl/gQiwgc)
+[JavaScript Fundamentals for ES6](https://goo.gl/gQiwgc)
+
 
 #### Bootstrap 3 
 
-Responsive Websites With Bootstrap 3 - (https://goo.gl/EeMAQu)
-
-Responsive Websites With Bootstrap 3 
+[Responsive Websites With Bootstrap 3](https://goo.gl/EeMAQu)
 
 #### Performance
 
-Website Performance - (https://goo.gl/tWuTGy)
+[Website Performance](https://goo.gl/tWuTGy)
 
-Responsive Web Images - (https://goo.gl/HxbL9B)
+[Responsive Web Images](https://goo.gl/HxbL9B)
 
 #### Software Practices
 
