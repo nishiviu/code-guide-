@@ -8,6 +8,8 @@ Follow the steps given below to get your pluralsight free subscription
 1. Go to my.visualstudio.com and sign-in with your Microsoft account.
 1. This will open the Visual Studio Dev Essentials page. Here choose Pluralsight among the benefits and click Activate.
 
+###### JavaScript
+
 JavaScript: The Good Parts - (https://goo.gl/9HVNWK)
 
 Rapid JavaScript Training - (https://goo.gl/Q67oJy)
@@ -46,11 +48,14 @@ Responsive Web Design Fundamentals - (https://goo.gl/1oCwqr)
 
 Responsive Images - (https://www.udacity.com/course/responsive-images--ud882)
 
-Browser Rendering Optimization - (https://goo.gl/oyBSFL)
-
 JavaScript Testing - (https://www.udacity.com/course/javascript-testing--ud549)
 
+###### Performance
+
 Website Performance Optimization - (https://www.udacity.com/course/website-performance-optimization--ud884)
+
+Browser Rendering Optimization - (https://goo.gl/oyBSFL)
+
 
 ###### Back End Development
 
