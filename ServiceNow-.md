@@ -1,5 +1,9 @@
 # Table of Contents
+
+https://developer.servicenow.com/app.do#!/document/content/app_store_doc_technical_best_practices_jakarta_interacting_with_the_database?v=jakarta
+
 - [General](#general)
+- [Interacting with the Database](#interacting-with-the-database)
 
 ## General
 
