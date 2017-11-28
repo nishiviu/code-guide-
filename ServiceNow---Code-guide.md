@@ -1,4 +1,3 @@
-
 # Table of Contents
 
 - [General](#general)
@@ -39,7 +38,7 @@
 * 3.2. **Set Client Script Order**
 * 3.3. **Use UI Policies Instead of Client Scripts to Set Field Attributes**
 
-Sources: 
+## Sources: 
 * ServiceNow Developers -  (https://goo.gl/oNtTE5)
 * Best Practices - (https://bestpractices.000webhostapp.com/)
 
