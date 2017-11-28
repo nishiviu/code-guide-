@@ -38,66 +38,65 @@ Follow the steps given below to get your pluralsight free subscription
 [Responsive Web Images](https://goo.gl/HxbL9B)
 
 #### Software Practices
+[Clean Architecture: Patterns, Practices, and Principles](https://goo.gl/5n4MKu)
 
-Clean Architecture: Patterns, Practices, and Principles - (https://goo.gl/5n4MKu)
+[Writing Testable Code](https://goo.gl/cMRGco)
 
-Writing Testable Code - (https://goo.gl/cMRGco)
+[UX-driven Software Design](https://goo.gl/p7qPN5)
 
-UX-driven Software Design - (https://goo.gl/p7qPN5)
-
-Mobile First Responsive Web Design - (https://goo.gl/AmakRr)
+[Mobile First Responsive Web Design](https://goo.gl/AmakRr)
 
 #### GIT
 
-How Git Works - (https://goo.gl/i5dG2L)
+[How Git Works](https://goo.gl/i5dG2L)
 
-Mastering Git - (https://goo.gl/MHh5Zr)
+[Mastering Git](https://goo.gl/MHh5Zr)
 
-Using Git with a GUI - (https://goo.gl/is5mCK)
+[Using Git with a GUI](https://goo.gl/is5mCK)
 
-Advanced Git Tips and Tricks - (https://goo.gl/JBf42B)
+[Advanced Git Tips and Tricks](https://goo.gl/JBf42B)
 
 ## Udacity
 #### Front End Development
 
-HTML and CSS Syntax - (https://www.udacity.com/course/html-and-css-syntax--ud001)
+[HTML and CSS Syntax](https://www.udacity.com/course/html-and-css-syntax--ud001)
 
-Intro to JavaScript - (https://www.udacity.com/course/intro-to-javascript--ud803)
+[Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803)
 
-JavaScript Promises - (https://www.udacity.com/course/javascript-promises--ud898)
+[JavaScript Promises](https://www.udacity.com/course/javascript-promises--ud898)
 
-Client-Server Communication - (https://www.udacity.com/course/client-server-communication--ud897)
+[Client-Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 
-Web Accessibility - (https://www.udacity.com/course/web-accessibility--ud891)
+[Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
 
-Asynchronous JavaScript Requests - (https://goo.gl/oA1XrD)
+[Asynchronous JavaScript Requests](https://goo.gl/oA1XrD)
 
-Building High Conversion Web Forms - (https://goo.gl/CEu9rG)
+[Building High Conversion Web Forms](https://goo.gl/CEu9rG)
 
-Responsive Web Design Fundamentals - (https://goo.gl/1oCwqr)
+[Responsive Web Design Fundamentals](https://goo.gl/1oCwqr)
 
-Responsive Images - (https://www.udacity.com/course/responsive-images--ud882)
+[Responsive Images](https://www.udacity.com/course/responsive-images--ud882)
 
-JavaScript Testing - (https://www.udacity.com/course/javascript-testing--ud549)
+[JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549)
 
 #### Performance
 
-Website Performance Optimization - (https://www.udacity.com/course/website-performance-optimization--ud884)
+[Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 
-Browser Rendering Optimization - (https://goo.gl/oyBSFL)
+[Browser Rendering Optimization](https://goo.gl/oyBSFL)
 
 
 #### Back End Development
 
-Designing RESTful APIs - (https://www.udacity.com/course/designing-restful-apis--ud388)
+[Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 
-Intro to Relational Databases - (https://www.udacity.com/course/intro-to-relational-databases--ud197)
+[Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 
 #### GIT & GitHub
 
-How to Use Git and GitHub - (https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+[How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
-GitHub & Collaboration - (https://www.udacity.com/course/github-collaboration--ud456)
+[GitHub & Collaboration](https://www.udacity.com/course/github-collaboration--ud456)
 
 
 ## Alison
@@ -105,6 +104,6 @@ GitHub & Collaboration - (https://www.udacity.com/course/github-collaboration--u
 
 ## YouTube
 
-Scope and the JavaScript Compiler  - (https://www.youtube.com/watch?v=nRZri_CHqnA)
+[Scope and the JavaScript Compiler](https://www.youtube.com/watch?v=nRZri_CHqnA)
 
-15 Sorting Algorithms in 6 Minutes - (https://www.youtube.com/watch?v=kPRA0W1kECg)
+[15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
