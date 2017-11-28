@@ -17,13 +17,13 @@ Tuts+ - (http://tutsplus.com/)
 
 
 ### People to follow
-Giararchi - (http://webreflection.blogspot.sk/)
+Andrea Giammarchi - (http://webreflection.blogspot.sk/)
 
 Kangax - (http://perfectionkills.com/)
 
-Souders - (http://www.stevesouders.com/)
+Steve Souders - (http://www.stevesouders.com/)
 
-Resig - (http://ejohn.org/category/blog/)
+John Resig - (http://ejohn.org/category/blog/)
 
 Lea Verou - (http://lea.verou.me/)
 
