@@ -65,7 +65,7 @@ A graphic guide to algorithms. (http://algosaur.us/data-structures-basics/)
  
  JavaScript The Definitive Guide, 6th Edition - (https://goo.gl/yFzmZu)
 
-## Software Architecture
+### Software Architecture
 
 Software Architecture for Developers - (https://sm-dev.edutone.net/Architect/Leanpub.Software.Architecture.for.Developers.May.2014.pdf)
 
