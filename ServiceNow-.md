@@ -65,6 +65,18 @@ Extend an existing table when there already is one which has similar functionali
 * Give tables meaningful names
 * Use singular suffixes
 
+5.2. **Table Fields**:
+* Give fields meaningful names  
+    * The field name should reflect what the field represents.
+    * The field label can be more descriptive.
+* Re-use / consolidate fields as appropriate
+* Re-label fields as needed
+* Reference choice lists with the same choices  
+    * Use underscores in choice list values.
+    * Capitalize words in choice names.
+
+
+
 
 ## Sources: 
 * ServiceNow Developers -  (https://goo.gl/oNtTE5)
