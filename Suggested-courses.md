@@ -1,4 +1,4 @@
-### Pluralsight
+## Pluralsight
 
 Pluralsight Free Subscription
 
@@ -58,7 +58,7 @@ Using Git with a GUI - (https://goo.gl/is5mCK)
 
 Advanced Git Tips and Tricks - (https://goo.gl/JBf42B)
 
-### Udacity
+## Udacity
 #### Front End Development
 
 HTML and CSS Syntax - (https://www.udacity.com/course/html-and-css-syntax--ud001)
@@ -101,10 +101,10 @@ How to Use Git and GitHub - (https://www.udacity.com/course/how-to-use-git-and-g
 GitHub & Collaboration - (https://www.udacity.com/course/github-collaboration--ud456)
 
 
-### Alison
+## Alison
 //TODO
 
-### YouTube
+## YouTube
 
 Scope and the JavaScript Compiler  - (https://www.youtube.com/watch?v=nRZri_CHqnA)
 
