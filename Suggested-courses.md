@@ -73,7 +73,7 @@ Designing RESTful APIs - (https://www.udacity.com/course/designing-restful-apis-
 
 Intro to Relational Databases - (https://www.udacity.com/course/intro-to-relational-databases--ud197)
 
-##### Miscellaneous
+##### GIT & GitHub
 
 How to Use Git and GitHub - (https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
