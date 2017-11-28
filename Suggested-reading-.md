@@ -4,7 +4,7 @@ Google Developers - (https://developers.google.com/)
 
 Mozilla Developers - (https://developer.mozilla.org/en-US/)
 
-### Webs Design & Development 
+### Web Design & Development 
 Smashing Magazine - (https://www.smashingmagazine.com/)
 
 SitePoint - (https://www.sitepoint.com/)
