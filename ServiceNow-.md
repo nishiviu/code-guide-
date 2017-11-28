@@ -2,6 +2,10 @@
 
 - [General](#general)
 - [Interacting with the Database](#interacting-with-the-database)
+- [Client Scripting](#client-scripting)
+- [Server Script Best Practices](#server-script-best-practices)
+- [Tables](#tables)
+- [Sources](#sources)
 
 ## General
 
@@ -53,6 +57,13 @@ Although the GlideRecord Class is available on the Client-side, ServiceNow recom
 * 4.4. **Use Conditions in Business Rules**: Because it’s possible (and likely) that multiple Business Rules (of each type) have been defined, the system will effectively combine all of them into one big long script for processing (where the order is determined by the Order field on each rule). If no Condition is configured on these rules, all of them will be executed every time.
 * 4.5. **Use GlideAggregate instead of getRowCount()**: Under-the-hood getRowCount() is not the most efficient means of obtaining a count. This is because the GlideRecord Class will retrieve the values of each record as well as the number of records returned. It is therefore recommended that we use the GlideAggregate Class instead. This Class operates with some similar functions and parameters as the GlideRecord Class, however its purpose is not to retrieve all of the record data but simply to provide statistics based on the records returned by a query.
 *  4.6. **Avoid hardcoding values by using System Properties and Messages**: Hardcoding makes the code difficult to maintain and make changes to these values in the future.
+
+## Tables
+5.1. **New Table**:
+* Understand when to extend or create new  
+Extend an existing table when there already is one which has similar functionality to the table you are about to create.
+* Give tables meaningful names
+* Use singular suffixes
 
 
 ## Sources: 
