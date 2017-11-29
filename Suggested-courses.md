@@ -11,13 +11,18 @@ Follow the steps given below to get your pluralsight free subscription
 #### JavaScript
 
 [JavaScript: The Good Parts - Douglas Crockford](https://goo.gl/9HVNWK)
+**Description**
 JavaScript has bad parts that many times overshadow it’s good parts. Douglas claims JavaScript has, "some of the best parts of any programming language ever created." He explains why in this course, quizzes you on functional programming and covers the monad in the final lecture of the course.
-**Intermediate**
+ **Intermediate**
+ 
+ 
 
+[Rapid JavaScript Training - Mark Zamoyta](https://goo.gl/Q67oJy)
+Learn JavaScript rapidly in a direct question and answer format. You'll see hundreds of examples which cover most aspects of the language. This course is for developers who already have fundamental JavaScript knowledge, or for developers in other languages who want to learn JavaScript quickly.
+ **Intermediate**
 
-[Rapid JavaScript Training](https://goo.gl/Q67oJy)
-
-[Advanced JavaScript](https://goo.gl/FBmq1G)
+[Advanced JavaScript - Kyle Simpson](https://goo.gl/FBmq1G)
+Kyle Simpson, author of the “You Don’t Know JavaScript” book series, details the inner workings of JavaScript in extreme detail. Gain an advanced understanding of the core mechanics of how JavaScript compiles, optimizes, and executes in the browser. This is your chance to get an “under the hood” intimate working knowledge of JavaScript. Course materials are available at https://frontendmasters.com/assets/resources/kylesimpson/advanced-javascript.zip
 
 [Practical Design Patterns in JavaScript](https://goo.gl/FZWRTc)
 
