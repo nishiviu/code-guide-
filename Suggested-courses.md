@@ -10,7 +10,10 @@ Follow the steps given below to get your pluralsight free subscription
 
 #### JavaScript
 
-[JavaScript: The Good Parts](https://goo.gl/9HVNWK)
+[JavaScript: The Good Parts - Douglas Crockford](https://goo.gl/9HVNWK)
+JavaScript has bad parts that many times overshadow it’s good parts. Douglas claims JavaScript has, "some of the best parts of any programming language ever created." He explains why in this course, quizzes you on functional programming and covers the monad in the final lecture of the course.
+**Intermediate**
+
 
 [Rapid JavaScript Training](https://goo.gl/Q67oJy)
 
