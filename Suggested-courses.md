@@ -1,3 +1,9 @@
+# Table of Contents
+1. [Pluralsight](#pluralsight)
+2. [Udacity](#udacity)
+3. [Alison](#alison)
+4. [YouTube](#youtube)
+
 ## Pluralsight
 
 **Pluralsight Free Subscription**
