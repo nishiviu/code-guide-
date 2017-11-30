@@ -6,6 +6,10 @@
     - [Software Practices](#software-practices)
     - [Git](#git)
 2. [Udacity](#udacity)
+    - [Front End Development](#front-end-development)
+    - [Performance](#performance)
+    - [Back End Development](#back-end-development)
+    - [GIT & GitHub](#git-&-github)
 3. [YouTube](#youtube)
 
 ## Pluralsight
