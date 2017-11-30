@@ -1,5 +1,10 @@
 # Table of Contents
 1. [Pluralsight](#pluralsight)
+    - [JavaScript](#javascript)
+    - [Bootstrap 3](#bootstrap-3)
+    - [Performance](#performance)
+    - [Software Practices](#software-practices)
+    - [Git](#git)
 2. [Udacity](#udacity)
 3. [YouTube](#youtube)
 
