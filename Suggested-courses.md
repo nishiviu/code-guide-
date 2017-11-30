@@ -1,8 +1,7 @@
 # Table of Contents
 1. [Pluralsight](#pluralsight)
 2. [Udacity](#udacity)
-3. [Alison](#alison)
-4. [YouTube](#youtube)
+3. [YouTube](#youtube)
 
 ## Pluralsight
 
@@ -341,9 +340,6 @@ Effective use of version control is an important and useful skill for any develo
 This course covers the essentials of working with remote repositories. You'll be able to connect to a remote repository, get changes from a remote repository, and send changes to a remote repository. You'll also learn how to work collaboratively. You'll fork another developer's repository, make changes to it, and then send them a pull request. You'll also pick up some Git tips and tricks that make working with collaborators a breeze.
 
 **Beginner**
-
-## Alison
-//TODO
 
 ## YouTube
 
