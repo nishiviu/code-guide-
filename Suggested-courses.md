@@ -9,7 +9,7 @@
     - [Front End Development](#front-end-development)
     - [Performance](#performance)
     - [Back End Development](#back-end-development)
-    - [GIT & GitHub](#git-&-github)
+    - [GIT & GitHub](#git-github)
 3. [YouTube](#youtube)
 
 ## Pluralsight
